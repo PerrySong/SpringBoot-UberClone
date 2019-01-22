@@ -1,0 +1,10 @@
+/Users/pengfeisong/Desktop/SpringBoot-Learning/SpringbootUberProject-1-fleat-location-service/src/main/java/com/perry/spring/uber/FleetLocationServiceApplication.java
+/Users/pengfeisong/Desktop/SpringBoot-Learning/SpringbootUberProject-1-fleat-location-service/src/main/java/com/perry/spring/uber/domain/LocationRepository.java
+/Users/pengfeisong/Desktop/SpringBoot-Learning/SpringbootUberProject-1-fleat-location-service/src/main/java/com/perry/spring/uber/domain/Location.java
+/Users/pengfeisong/Desktop/SpringBoot-Learning/SpringbootUberProject-1-fleat-location-service/src/main/java/com/perry/spring/uber/service/impl/LocationServiceImpl.java
+/Users/pengfeisong/Desktop/SpringBoot-Learning/SpringbootUberProject-1-fleat-location-service/src/main/java/com/perry/spring/uber/service/LocationService.java
+/Users/pengfeisong/Desktop/SpringBoot-Learning/SpringbootUberProject-1-fleat-location-service/src/main/java/com/perry/spring/uber/domain/UnitInfo.java
+/Users/pengfeisong/Desktop/SpringBoot-Learning/SpringbootUberProject-1-fleat-location-service/src/main/java/com/perry/spring/uber/domain/UnitFault.java
+/Users/pengfeisong/Desktop/SpringBoot-Learning/SpringbootUberProject-1-fleat-location-service/src/main/java/com/perry/spring/uber/rest/FleetUploadRestController.java
+/Users/pengfeisong/Desktop/SpringBoot-Learning/SpringbootUberProject-1-fleat-location-service/src/main/java/com/perry/spring/uber/domain/FaultCode.java
+/Users/pengfeisong/Desktop/SpringBoot-Learning/SpringbootUberProject-1-fleat-location-service/src/main/java/com/perry/spring/uber/domain/LocationRestRepository.java

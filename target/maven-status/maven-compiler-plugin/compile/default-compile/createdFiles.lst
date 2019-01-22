@@ -1,0 +1,12 @@
+com/perry/spring/uber/domain/FaultCode.class
+com/perry/spring/uber/rest/FleetUploadRestController.class
+com/perry/spring/uber/service/impl/LocationServiceImpl.class
+com/perry/spring/uber/domain/Location$VehicleMovementType.class
+com/perry/spring/uber/domain/LocationRepository.class
+com/perry/spring/uber/domain/UnitFault.class
+com/perry/spring/uber/domain/UnitInfo.class
+com/perry/spring/uber/domain/LocationRestRepository.class
+com/perry/spring/uber/domain/Location$GpsStatus.class
+com/perry/spring/uber/service/LocationService.class
+com/perry/spring/uber/FleetLocationServiceApplication.class
+com/perry/spring/uber/domain/Location.class
